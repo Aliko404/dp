@@ -1,0 +1,22 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
